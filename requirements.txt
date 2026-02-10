@@ -1,0 +1,5 @@
+python-fasthtml
+pandas
+matplotlib
+scikit-learn
+pytest
