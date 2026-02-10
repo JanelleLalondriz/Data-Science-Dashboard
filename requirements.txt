@@ -1,1 +1,5 @@
-pandas==2.2.3
+python-fasthtml
+pandas
+matplotlib
+scikit-learn
+pytest
