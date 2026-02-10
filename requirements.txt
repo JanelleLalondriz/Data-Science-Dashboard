@@ -1,5 +1,1 @@
-python-fasthtml
-pandas
-matplotlib
-scikit-learn
-pytest
+pandas==2.2.3
